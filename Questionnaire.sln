@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questionnaire", "Questionnaire\Questionnaire.csproj", "{E0FC37E3-5605-458A-9979-0B99C4B36997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questionnaire_Auth", "Questionnaire_Auth\Questionnaire_Auth.csproj", "{D1E615BA-C48F-4377-8A6E-47566332C423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questionnaire_Methods", "Questionnaire_Methods\Questionnaire_Methods.csproj", "{64728FAA-4730-4D76-A74B-92BA326AF647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questionnaire_Models", "Questionnaire_Models\Questionnaire_Models.csproj", "{1DCD2579-3194-41D8-A667-171B8F125B37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questionnaire_ORM", "Questionnaire_ORM\Questionnaire_ORM.csproj", "{9A3A93AC-B9B6-4282-8E7C-10FEB97BD552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questionnaire_DBSoure", "Questionnaire_DBSoure\Questionnaire_DBSoure.csproj", "{42F87DE2-BB1E-41B8-B628-F169E320E44D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0FC37E3-5605-458A-9979-0B99C4B36997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0FC37E3-5605-458A-9979-0B99C4B36997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0FC37E3-5605-458A-9979-0B99C4B36997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0FC37E3-5605-458A-9979-0B99C4B36997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E615BA-C48F-4377-8A6E-47566332C423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E615BA-C48F-4377-8A6E-47566332C423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E615BA-C48F-4377-8A6E-47566332C423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E615BA-C48F-4377-8A6E-47566332C423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64728FAA-4730-4D76-A74B-92BA326AF647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64728FAA-4730-4D76-A74B-92BA326AF647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64728FAA-4730-4D76-A74B-92BA326AF647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64728FAA-4730-4D76-A74B-92BA326AF647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DCD2579-3194-41D8-A667-171B8F125B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DCD2579-3194-41D8-A667-171B8F125B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DCD2579-3194-41D8-A667-171B8F125B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DCD2579-3194-41D8-A667-171B8F125B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A3A93AC-B9B6-4282-8E7C-10FEB97BD552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A3A93AC-B9B6-4282-8E7C-10FEB97BD552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A3A93AC-B9B6-4282-8E7C-10FEB97BD552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A3A93AC-B9B6-4282-8E7C-10FEB97BD552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F87DE2-BB1E-41B8-B628-F169E320E44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F87DE2-BB1E-41B8-B628-F169E320E44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F87DE2-BB1E-41B8-B628-F169E320E44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F87DE2-BB1E-41B8-B628-F169E320E44D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66382C24-9D24-4F19-A33F-6F85B5EE25BF}
+	EndGlobalSection
+EndGlobal
